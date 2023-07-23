@@ -1,6 +1,4 @@
  # Tic_Tac_Toe
- ## Description
-This repository contains a classic Tic Tac Toe game implemented in Python. The game supports both single-player and double-player modes. In single-player mode, the player can challenge an AI opponent powered by the Minimax algorithm, ensuring a challenging gameplay experience.
 
 ## Installation
 1. Clone the repository to your local machine using: git clone https://github.com/your-username/tic-tac-toe.git
